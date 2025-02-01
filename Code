@@ -1,0 +1,44 @@
+<html>
+
+<head>
+    <title> keerthna</title>
+    <link rel="stylesheet" href="kvs.css">
+</head>
+
+<body>
+    <div class="nav1">
+        <a href="">home</a>
+        <a href=""> detail</a>
+        <a href="">contact</a>
+        <ul>
+
+            <li>sadfg</li>
+            <li>sadfg</li>
+            <li>sadfg</li>
+            <li>sadfg</li>
+
+
+
+        </ul>
+
+
+    </div>
+    <center>
+        <h1>hi i am keerthana vs</h1>
+        <button>click here </button>
+        <p> hii giesssss</p>
+        <h2> life is good</h2>
+        <div class="content">
+            <h3>card head</h3>
+            <p> hgk.l.khkjkhhjkkj.lkkl</p>
+            <marquee  direction="right"> tinker hub</marquee>
+
+        </div>
+        <div class="box"> 
+            gggggg
+        </div>
+        <marquee  direction="right"> tinker hub</marquee>
+    </center>
+</body>
+
+</html>
